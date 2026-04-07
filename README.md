@@ -10,7 +10,7 @@ A multi-GPU Gradio web application for generating images and applying depth-base
 
 ## Prerequisites
 To run this notebook, you will need a machine with:
-- At least 2 GPUs with 14 GB+ VRAM each (e.g. 2x NVIDIA T4 or better). It is optimized to split the work across `cuda:0` and `cuda:1`.
+- At least 2 GPUs with 14 GB+ VRAM each (e.g. 2x NVIDIA T4 or better). It is optimized to split the work across `cuda:0` and `cuda:1`. Try it on **Kaggle**.
 - A Hugging Face account with an access token (for downloading weights).
 
 ## Installation
